@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A powerful Node.js CLI-based File System Manager that lets users create, edit, delete, and manage files and folders directly from the terminal. Built using modern JavaScript, async/await, and Node.js filesystem modules with a clean interactive command-line interface.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

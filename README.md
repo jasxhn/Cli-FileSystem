@@ -80,7 +80,3 @@ node index.js
 * Better UI formatting
 
 ---
-
-## 📄 License
-
-This project is open source and available under the MIT License.
